@@ -1,4 +1,4 @@
-# DNC_DataModeling
+# PricePrediction_MachineLearning_Python_DNC
 **Data Modeling Case - California Housing**
 
 Working on Data Modeling step from CRISP-DM using Fetch California Housing dataset from SKLEARN.
